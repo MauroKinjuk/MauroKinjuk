@@ -33,6 +33,6 @@ Fuera del teclado: ciclismo de MTB — compito en carreras.
 
 ## Contacto
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maurokinjuk.github.io-0ea5e9?style=flat)](https://maurokinjuk.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mauro.is--a.dev-0ea5e9?style=flat)](https://mauro.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mauro--kinjuk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-kinjuk/)
-[![Email](https://img.shields.io/badge/Email-mauro.kinjuk%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mauro.kinjuk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contacto%40mauro.is--a.dev-EA4335?style=flat&logo=minutemailer&logoColor=white)](mailto:contacto@mauro.is-a.dev)
